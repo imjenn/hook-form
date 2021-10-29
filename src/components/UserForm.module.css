@@ -1,0 +1,38 @@
+div {
+    margin: 20px 0;
+    padding: 0 15px;
+}
+
+input {
+    background-color: whitesmoke;
+    line-height: 20px;
+    width: 60%;
+    float: right;
+}
+
+.submit {
+    width: 100px;
+    margin-right: 42%;
+    box-shadow: 3px 3px 0.3px 0.9px black;
+}
+
+.submit:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 3px 3px 0.3px 0.9px grey;
+    cursor: pointer;
+}
+
+h3 {
+    margin-left: 35%;
+}
+
+h4 {
+    margin: 15% 0 0 30%;
+}
+
+.results {
+    border-top: 1px solid grey;
+    padding: 0 15px;
+}
+
